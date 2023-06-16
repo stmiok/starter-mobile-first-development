@@ -29,22 +29,22 @@ main p {
 }
 // new code added below this line to fix image alignments 
 .group img {
-  width:100%;
+  width: 100%;
 }
 
-.group{
-  display:flex;
+.group {
+  display: flex;
   flex-direction: column;
   margin-bottom: 100px;
 }
 
 .item {
-  flex:1;
+  flex: 1;
   margin: 10px;
 }
 
 .item-double {
-  flex:2;
+  flex: 2;
   margin: 10px;
 }
 
